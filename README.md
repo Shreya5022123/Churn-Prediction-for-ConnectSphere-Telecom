@@ -80,7 +80,6 @@ A simple yet effective **Artificial Neural Network (ANN)** built using TensorFlo
 ---
 
 
----
 
 ## ✅ Getting Started
 
